@@ -1,0 +1,7 @@
+{
+  "name": "Velocita RAW // Motor & Lifestyle Studio",
+  "description": "Estudio fotográfico automotriz, expediciones en motocicleta de alta montaña y catálogo técnico de equipamiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
